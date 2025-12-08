@@ -1,0 +1,50 @@
+[
+   {
+    "id" : 1,
+    "title": "How Internet Works",
+    "date": "7-12-2025",
+    "author" : "Joshua",
+    "preview": "Today we are going to talk about how the internet works but firstly we start by explaining what the internet is. The internet is made up of millions of computers and other devices connected together to form a global network",
+    "content": "you are good"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with HTML",
+    "date": "1-12-2025",
+    "preview": "Here u learn what html means. HTML stands for Hypertext Markup Language.",
+    "author": "ZeeTech",
+    "content": "HTML is the standard markup language for creating web pages."
+  },
+  {
+    "id": 3,
+    "title": "CSS for Beginners",
+    "date": "6-11-2026",
+    "preview": "Here u learn what html means. HTML stands for Hypertext Markup Language.",
+    "author": "ZeeTech",
+    "content": "CSS controls the style and layout of your web pages."
+  },
+  {
+    "id": 4,
+    "title": "JavaScript Basics",
+    "date": "6-11-2026",
+    "preview": "Here u learn what html means. HTML stands for Hypertext Markup Language.",
+    "author": "ZeeTech",
+    "content": "JavaScript lets you add interactivity to your website."
+  },
+  {
+    "id":5,
+    "title": "Getting Started with HTML",
+    "date": "6-11-2026",
+    "author": "ZeeTech",
+    "preview": "Here u learn what html means. HTML stands for Hypertext Markup Language.",
+    "content": "HTML stands for HyperText Markup Language. It is the standard language used to create web pages. With HTML, you can structure your content using tags like headings, paragraphs, images, links and much more. It forms the basic skeleton of any web development project and is often used alongside CSS and JavaScript to build interactive, styled web apps."
+  },
+  {
+    "id":6,
+    "title": "CSS for Beginners",
+    "date": "6-11-2026",
+    "author": "ZeeTech",
+    "preview": "Here u learn what html means. HTML stands for Hypertext Markup Language.",
+    "content": "CSS stands for Cascading Style Sheets. It is used to control the layout and appearance of HTML elements. With CSS, you can change colors, fonts, spacing, alignment, and more. It helps in making your website responsive, attractive, and consistent across different devices."
+  }
+]
